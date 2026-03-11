@@ -52,7 +52,7 @@ Default model:
 base
 📦 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/whisper-transcriber.git
+git clone https://github.com/Itshaseeb791/models-whisper
 cd whisper-transcriber
 2️⃣ Install Python Dependencies
 
